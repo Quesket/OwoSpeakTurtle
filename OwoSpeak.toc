@@ -1,10 +1,8 @@
-## Interface: 110200, 50500, 11507
-## Version: @project-version@
+## Interface: 11200
+## Version: 1
 ## Title: OwoSpeak
 ## Notes: Pwease owo wesponsibwy
-## Author: Ketho
-## SavedVariables: OwoSpeakDB, OwoSpeakDBBlockedChannels
-## X-Curse-Project-ID: 339039
-## X-WoWI-ID: 25199
+## Author: Ketho, Quesket
+# SavedVariables: OwoSpeakDB, OwoSpeakDBBlockedChannels
 
-OwoSpeak.lua
+OwoSpeakTurtle.lua
