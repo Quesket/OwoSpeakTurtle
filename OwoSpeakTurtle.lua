@@ -14,8 +14,8 @@ local string_gsub = string.gsub
 local makeowo = SendChatMessage
 
 function SendChatMessage(msg, chatType, language, channel, target)
-    local owo = owos[math.random(tlength(owos))]
-    local whatsthis = math.random(10)
+    local owo = owos[random(tlength(owos))]
+    local whatsthis = random(10)
 
     local s = msg
     s = string_gsub(s, "[LR]", "W")
