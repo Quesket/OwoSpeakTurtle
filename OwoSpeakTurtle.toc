@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Version: 1
-## Title: OwoSpeak
+## Title: OwoSpeakTurtle
 ## Notes: Pwease owo wesponsibwy
 ## Author: Ketho, Quesket
 # SavedVariables: OwoSpeakDB, OwoSpeakDBBlockedChannels
